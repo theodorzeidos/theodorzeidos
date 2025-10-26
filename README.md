@@ -1,5 +1,5 @@
 <h1 align="center">⚡ theodorzeidos ⚡</h1>
-<h3 align="center">Full Stack Developer | Coffee Lover ☕ | Anime & Code ⚔️</h3>
+<h3 align="center">Full Stack Developer
 
 ---
 
