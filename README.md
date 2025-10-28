@@ -7,7 +7,6 @@
 
 
 
-a
 
 
 ## 🔗 Im just a random scripter.
